@@ -6,5 +6,3 @@ It can run on any machine with python and the appropriate dependencies. To chang
 ## Entry point
 **index.py is the main file**
 
-
-![Object detection demonstration in pytorch](https://drive.google.com/file/d/1ZSurfa6-SKGchys2O04h96_4-YKi1Tsi/view?usp=share_link)
