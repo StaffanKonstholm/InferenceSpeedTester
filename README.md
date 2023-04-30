@@ -5,3 +5,7 @@ It can run on any machine with python and the appropriate dependencies. To chang
 
 ## Entry point
 **index.py is the main file**
+
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1ZSurfa6-SKGchys2O04h96_4-YKi1Tsi/view?usp=share_link" type="video/mp4">
+</video>
